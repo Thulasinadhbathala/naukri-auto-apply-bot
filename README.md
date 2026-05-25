@@ -102,6 +102,7 @@ resume.txt
 ```
 
 Paste your resume content inside it.
+Add details which will ask frequently (which is not included in resume like city you are avaialable, package looking for ..soon)
 
 ---
 
