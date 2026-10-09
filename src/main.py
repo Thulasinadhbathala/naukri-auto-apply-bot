@@ -14,7 +14,8 @@ API_KEY = os.getenv("API_KEY")
 
 client = OpenAI(
     api_key=API_KEY,
-    base_url="https://api.groq.com/openai/v1"
+    base_url="https://api.groq.com/openai/v1",
+    timeout=10.0
 )
 
 MODEL = "openai/gpt-oss-20b"
