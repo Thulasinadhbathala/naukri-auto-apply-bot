@@ -17,7 +17,7 @@ client = OpenAI(
     base_url="https://api.groq.com/openai/v1"
 )
 
-MODEL = "llama-3.3-70B-Versatile"
+MODEL = "openai/gpt-oss-20b"
 
 file_path = "resume.txt"
 
